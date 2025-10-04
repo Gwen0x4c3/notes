@@ -11,3 +11,4 @@
   * [spec-kit](ai/spec-kit/README.md)
     * [spec-kit](ai/spec-kit/spec-kit.md)
     * [usage](ai/spec-kit/usage.md)
+* [tactics](tactics.md)
